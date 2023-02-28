@@ -1,0 +1,136 @@
+.t106__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-right:300px;
+    padding-left: 10px;
+    text-align: center;
+}
+.t106__text {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 0px;
+    padding-right: 300px;
+    padding-left: 10px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 25px;
+    opacity: .7;
+}
+.t107__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-right: 10px;
+    padding-left: 250px;
+    text-align: center;
+}
+.t107__text {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-left: 250px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 25px;
+    opacity: .7;
+}
+.t108__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
+.t109__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+
+}
+.t110__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    color: #FFFFE0;
+}
+.box {
+  background-color: #FFFFE0;
+}
+.t111__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 82px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    color: #BDB76B;
+}
+.about{
+  background: url('video.png');
+  background-size: cover;
+}
+
+.bgvideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -9999;
+}
+.t120__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 800px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+
+}
+.t121__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+
+}
+
+.t130__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 300px;
+    padding-bottom: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    color:white;
+}
+.t131__title {
+    max-width: 360px;
+    margin: 0 auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    padding-left: 10px;
+    text-align: center;
+    color:white;
+}
